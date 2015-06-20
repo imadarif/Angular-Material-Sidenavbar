@@ -1,0 +1,32 @@
+.menudemoBasicUsage .md-menu-demo {
+    padding: 24px; }
+.menudemoBasicUsage .menu-demo-container {
+    min-height: 200px; }
+
+
+
+.custom-md-select md-select-label {
+    color: black !important;
+    min-width: 10px !important;
+    border: 2px solid black !important;
+    border-radius: 20px;
+    padding: 5px 3px 4px 3px !important;
+    font-size: 15px;
+    margin: 0 auto;
+    float: left;
+}
+
+
+.custom-md-select md-select-label .md-select-icon {
+    width: 15px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+.custom-md-select .md-select-label .md-select-icon:after {
+    top: 0 !important;
+}
+
+.color-dialog-position {
+    position: absolute;
+    right: 0;
+}
